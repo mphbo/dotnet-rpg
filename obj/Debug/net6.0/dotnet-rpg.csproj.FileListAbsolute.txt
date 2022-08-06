@@ -25,3 +25,5 @@
 /Users/logan.thomas/Websites/dotnet-rpg/obj/Debug/net6.0/dotnet-rpg.pdb
 /Users/logan.thomas/Websites/dotnet-rpg/obj/Debug/net6.0/dotnet-rpg.genruntimeconfig.cache
 /Users/logan.thomas/Websites/dotnet-rpg/obj/Debug/net6.0/ref/dotnet-rpg.dll
+/Users/logan.thomas/Websites/dotnet-rpg/bin/Debug/net6.0/AutoMapper.dll
+/Users/logan.thomas/Websites/dotnet-rpg/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
